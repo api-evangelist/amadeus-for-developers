@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://developers.amadeus.com/self-service
 common:
+  - type: VulnerabilityDisclosure
+    url: security/amadeus-for-developers-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/amadeus-for-developers-domain-security.yml
   - type: Website
     url: https://developers.amadeus.com/self-service
   - type: PublicAPIsListing
